@@ -1,0 +1,3 @@
+[submodule "tests/dependencies/raylib-quickstart"]
+	path = tests/dependencies/raylib-quickstart
+	url = https://github.com/raylib-extras/raylib-quickstart.git
